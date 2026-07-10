@@ -85,14 +85,8 @@ de-tai-31-an-toan-vat-ly-cho-thiet-bi-iot
 
 ---
 
-## Thành viên nhóm
-
-| Họ và tên | MSSV | Nhiệm vụ |
-|-----------|------|----------|
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-| Phan Ngọc Ân | ... | ... |
+## Thành viên
+ Phan Ngọc Ân
 
 ---
 
