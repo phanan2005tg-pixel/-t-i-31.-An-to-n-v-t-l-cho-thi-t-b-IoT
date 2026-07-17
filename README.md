@@ -62,10 +62,5 @@ Do đặc thù của an toàn vật lý, đề tài sẽ tập trung phân tích
 
 
 ---
-
-### 💡 Hướng dẫn điền vào bảng kiểm tiến độ của bạn:
-
-* **Trạng thái:** ☑ **Xong**
-* **Ghi chú/Minh chứng:** *“Đã xác định rõ phương pháp phân tích bề mặt tấn công vật lý dựa trên chuẩn OWASP ISVS và công cụ kiểm thử cổng giao tiếp phần cứng (UART/JTAG/Flash Encryption), chi tiết đã cập nhật tại mục 3 trong file README.md.”*
 ---
 
