@@ -1,10 +1,8 @@
 # Đề tài 31: An toàn vật lý cho thiết bị IoT (Physical Security for IoT Devices)
 
-# Đề tài 31: An toàn vật lý cho thiết bị IoT (Physical Security for IoT Devices)
-
 ## 1. Giới thiệu đề tài
 
-Đề tài nghiên cứu các rủi ro về **an toàn vật lý** đối với thiết bị Internet of Things (IoT), tập trung vào trường hợp kẻ tấn công có thể tiếp cận trực tiếp thiết bị để khai thác các cổng debug, bộ nhớ hoặc thay đổi phần cứng. Nhóm sử dụng **ESP32 Development Board** làm thiết bị tham khảo để phân tích kiến trúc phần cứng, đánh giá rủi ro và đề xuất các biện pháp bảo vệ dựa trên tiêu chuẩn **OWASP IoT Security Verification Standard (ISVS)** và tài liệu của **Espressif**.
+Trong hệ thống IoT, thiết bị đầu cuối thường triển khai ở các vị trí công cộng, môi trường mở (ngoài trời, hành lang), khiến chúng dễ bị kẻ tấn công tiếp cận trực tiếp về mặt vật lý. Nếu không có biện pháp bảo vệ phần cứng, mọi giải pháp mã hóa phần mềm đều có thể bị vô hiệu hóa khi kẻ gian trích xuất dữ liệu/firmware trực tiếp từ bo mạch qua các cổng giao tiếp hở.
 
 ---
 
