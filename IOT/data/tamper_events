@@ -1,4 +1,0 @@
-Time,Event,Status
-0,System Startup,SAFE
-1200,Tamper Detected,ALERT
-2500,Enclosure Closed,SAFE

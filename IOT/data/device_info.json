@@ -1,7 +1,0 @@
-{
-  "device": "ESP32 DevKit V1",
-  "tamper_pin": 4,
-  "green_led": 2,
-  "red_led": 5,
-  "buzzer": 15
-}
